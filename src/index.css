@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(128, 155, 204);
+}
+
+.main-body{
+    margin-top: 180px;
+    margin-left: 500px;
+    background-color: antiquewhite;
+    width: 280px;
+    /* border-radius: 13px; */
+}
+input:active{
+    border: none;
+    outline: none;
+    text-shadow: none;
+    text-decoration: none;
+}
+
+.input{
+    border: none;
+    border-bottom: 3px;
+    margin-left: 30px;
+    height: 30px;
+    outline: none;
+    background-color: antiquewhite;
+}
+
+.heading{
+    background-color: blueviolet;
+    color: azure;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 3px;
+    font-weight: 20px;
+}
+
+
+.add-btn{
+    margin-left: 2px;
+    background-color: blueviolet;
+    color: white;
+    font-size: 20px;
+    border-radius: 50px;
+    border-color: blueviolet;
+    width: 30px;
+    height: 30px;
+}
+
+.add-data{
+    margin-top: 13px;
+}
+
+.add-item{
+    margin-left:30px;
+    font-size: 20px;
+    padding-top: 3px;
+
+}
+
+.items{
+    padding-bottom: 15px;
+}
+
+.delete-btn{
+    margin-left: 30px;  
+    background-color: blueviolet;
+    color: white;
+    border-radius:30px;
+}
+
+.edit-btn {
+    margin-left: 5px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 30px;
+}
+
+.inputItem{
+    width: 100px;
+    border: none;
+    border-bottom: 3px;
+    outline: none;
+    background-color: antiquewhite;
+}
+
+.editText{
+    width : 100px;
+}
